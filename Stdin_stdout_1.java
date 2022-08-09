@@ -5,7 +5,7 @@
 
 import java.util.Scanner;
 
-public class stdin_stdout_1 {
+public class Stdin_stdout_1 {
 
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
