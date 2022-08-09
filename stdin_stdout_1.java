@@ -9,11 +9,13 @@ public class stdin_stdout_1 {
 
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
-		String str = scan.next();
 		int i = scan.nextInt();
+		int j = scan.nextInt();
+		int k = scan.nextInt();
 		scan.close();
 
-		System.out.println("str = " + str);
-		System.out.println("i = " + i);
+		System.out.println(i);
+		System.out.println(j);
+		System.out.println(k);
 	}
 }
