@@ -1,0 +1,5 @@
+// Given an array of integers and a number, this program performs left rotations on the array.
+// The updated array is printed as a single line of space-separated integers.
+
+public class LeftRotation {
+}
